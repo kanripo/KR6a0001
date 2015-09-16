@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 長阿含經
+#+DATE: 2015-08-30 19:27:21.816489
+#+PROPERTY: JUAN 0

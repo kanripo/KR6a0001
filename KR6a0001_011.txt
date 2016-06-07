@@ -1,5 +1,5 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-06 20:31
+#+DATE: 2016-06-08 6:17
 #+TITLE: 長阿含經
 #+PROPERTY: CBETA_ID T01n0001
 #+PROPERTY: ID KR6a0001

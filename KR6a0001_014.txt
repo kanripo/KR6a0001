@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:21.120627
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:17
 #+TITLE: 長阿含經
 #+PROPERTY: CBETA_ID T01n0001
 #+PROPERTY: ID KR6a0001
@@ -14,7 +14,7 @@
  《佛說長阿含經》卷第十四¶
 後秦弘始年佛陀耶舍共竺佛念譯¶
 
-21梵動經
+** 21梵動經
 :PROPERTIES:
 :head: （二一）第三分梵動經第二
 :END:

@@ -1,19 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:35.799110
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:17
 #+TITLE: 長阿含經
 #+PROPERTY: CBETA_ID T01n0001
 #+PROPERTY: ID KR6a0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 001
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6a0001_T_008-0047a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 《佛說長阿含經》卷第八¶
 後秦弘始年佛陀耶舍共竺佛念譯¶
 
-（八）第二分散陀那經第四¶
+** （八）第二分散陀那經第四¶
 
 如是我聞：
 
@@ -349,10 +349,10 @@
 右手接散陀那居士置掌中，乘虛而歸。
 
 時，¶
-散陀那居士、俱陀梵志及五百梵志子聞佛¶
+散陀那居士、尼俱陀梵志及五百梵志子聞佛¶
 所說，歡喜奉行。¶
 
-（九）《佛說長阿含》第二分眾集經第五¶
+** （九）《佛說長阿含》第二分眾集經第五¶
 
 如是我聞：
 

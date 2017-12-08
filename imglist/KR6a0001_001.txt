@@ -1,3 +1,4 @@
+001-0001a00	TKD 17-0815a	buddhist/K-koreana/17-tif/0800-0899/17_0815_A.TIF
 001-0001a57	TKD 17-0815b	buddhist/K-koreana/17-tif/0800-0899/17_0815_B.TIF
 001-0001c35	TKD 17-0815c	buddhist/K-koreana/17-tif/0800-0899/17_0815_C.TIF
 001-0002a31	TKD 17-0816a	buddhist/K-koreana/17-tif/0800-0899/17_0816_A.TIF
